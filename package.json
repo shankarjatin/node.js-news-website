@@ -1,7 +1,7 @@
 {
   "name": "nodejs-news",
   "version": "1.0.0",
-  "description": "",
+  "description": "This was created as part of YouTube Video. Links below",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
@@ -11,12 +11,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": ">=0.21.1",
-    "body-parser": "^1.19.0",
-    "ejs": "^3.1.5",
-    "express": "^4.17.1"
+    "axios": "^1.2.0",
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaddyTheBrand/Node.js-News-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RaddyTheBrand/Node.js-News-Website/issues"
+  },
+  "homepage": "https://github.com/RaddyTheBrand/Node.js-News-Website#readme"
 }
