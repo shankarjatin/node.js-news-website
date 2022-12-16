@@ -18,13 +18,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RaddyTheBrand/Node.js-News-Website.git"
-  },
-  "bugs": {
-    "url": "https://github.com/RaddyTheBrand/Node.js-News-Website/issues"
-  },
-  "homepage": "https://github.com/RaddyTheBrand/Node.js-News-Website#readme"
+  }
 }
